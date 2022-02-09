@@ -1,0 +1,1 @@
+print("i love Algorytms and Strukturs dannykh")
